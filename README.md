@@ -109,7 +109,6 @@
 
 ### 🐍 Contribution Graph Animation
 
-<p align="center">
-  <img src="https://github.com/Suhana-Pendhari/Suhana-Pendhari/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+![GitHub Snake](https://raw.githubusercontent.com/Suhana-Pendhari/Suhana-Pendhari/output/github-contribution-grid-snake.svg)
+
 
