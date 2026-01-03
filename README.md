@@ -16,7 +16,7 @@
 - 🌱 I’m learning **Advanced DSA and System Design**
 - 🤝 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at: **suhanapendhari786@gmail.com**
-- 🌐 Check out my [Portfolio Website](https://suhana-pendhari.github.io/Portfolio-Website/)
+- 🌐 Check out my [Portfolio Website](https://my-portfolio-website-eight-omega.vercel.app/)
 
 ---
 
