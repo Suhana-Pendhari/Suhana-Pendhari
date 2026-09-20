@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhana Pendhari</h1>
-<h3 align="center">🚀 MERN Stack Developer | 💫 DSA Enthusiast | 💡 Passionate about Problem Solving</h3>
+<h3 align="center">🚀 Full Stack Developer | 💫 DSA Enthusiast | 💡 Passionate about Problem Solving</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=500&color=F70000&center=true&vCenter=true&multiline=true&width=850&height=130&lines=Hi+%F0%9F%91%8B+I+am+Suhana+Pendhari!;MERN+Stack+Developer+%7C+DSA+Lover;CSE+Student+%7C+Always+Learning+%F0%9F%93%9A;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=F70000&center=true&vCenter=true&width=850&height=80&lines=Welcome+to+my+Brain+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
 
@@ -20,11 +20,8 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m learning **Advanced DSA and System Design**
-- 🤝 I’m looking to collaborate on **Open Source Projects**
-- 📫 Reach me at: **suhanapendhari786@gmail.com**
-- 🌐 Check out my [Portfolio Website](https://my-portfolio-website-eight-omega.vercel.app/)
+- 📫 Email: **suhanapendhari786@gmail.com**
+- 🌐 Portfolio: [Portfolio Website](https://my-portfolio-website-eight-omega.vercel.app/)
 
 ---
 
